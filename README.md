@@ -1,2 +1,4 @@
 # Kusotera_Capstone
-## No changes
+## Editing the file
+
+Its a mark down file in this repository
